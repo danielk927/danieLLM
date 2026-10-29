@@ -1,2 +1,3 @@
 # danieLLM
-LLM Inference Engine on Qwen3-0.6B (Python engine + custom CUDA kernels)
+An LLM inference engine built from scratch: a Python engine with custom CUDA kernels, targeting Qwen3-0.6B.
+
